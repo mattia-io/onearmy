@@ -51,7 +51,7 @@ We use additional branches to define a specific feature or issue group being wor
 
 Issues are tracked on GitHub and we also use [waffle](https://waffle.io) as a visual overlay to monitor progression. Some issues are collated to form ‘Epics’ which are a more general narrative or story for what the intended development will result in for a user, and issues may also have further child issues. If you are unfamiliar with ways to format or format issues, then refer to the links [here](https://github.com/OneArmyWorld/onearmy/issues/2).
 
-Anybody can create an issue or assign an issue to themselves, and when working on an issue it should be tagged with **in-progress** so that we are aware of what is being worked on. Once an issue is in progress we some sort of update to be made within a 1-2 week period (otherwise you should unmark, and possibly unassign if unlikely to come back to it soon).
+Anybody can create an issue or assign an issue to themselves, and when working on an issue it should be tagged with **in-progress** so that we are aware of what is being worked on. Once an issue is in progress we need some sort of update to be made within a 1-2 week period (otherwise you should unmark, and possibly unassign if unlikely to come back to it soon).
 
 When a group of issues has been resolved a pull request to the dev branch should be made, where it will undergo a quick review and test. It is expected that the developer will have done thorough testing themselves first, and most pull requests can be quickly merged.
 
